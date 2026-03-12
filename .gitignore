@@ -1,1 +1,5 @@
-datasets/UCF101
+datasets/
+frame_dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
